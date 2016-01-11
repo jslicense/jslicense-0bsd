@@ -1,0 +1,15 @@
+{
+  "name": "jslicense-0bsd",
+  "description": "the Zero-Clause BSD License in jslicense format",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "bugs": "https://github.com/jslicense/jslicense-0bsd/issues",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "0BSD",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "repository": "jslicense/jslicense-0bsd"
+}
